@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/front-end-topicos/static/css/main.69eda509.chunk.css",
+    "main.js": "/front-end-topicos/static/js/main.271a7c26.chunk.js",
+    "main.js.map": "/front-end-topicos/static/js/main.271a7c26.chunk.js.map",
+    "runtime-main.js": "/front-end-topicos/static/js/runtime-main.81fb2454.js",
+    "runtime-main.js.map": "/front-end-topicos/static/js/runtime-main.81fb2454.js.map",
+    "static/css/2.c4b3731d.chunk.css": "/front-end-topicos/static/css/2.c4b3731d.chunk.css",
+    "static/js/2.10bbbc00.chunk.js": "/front-end-topicos/static/js/2.10bbbc00.chunk.js",
+    "static/js/2.10bbbc00.chunk.js.map": "/front-end-topicos/static/js/2.10bbbc00.chunk.js.map",
+    "index.html": "/front-end-topicos/index.html",
+    "precache-manifest.10904086cbb7bb109a195c6859e04237.js": "/front-end-topicos/precache-manifest.10904086cbb7bb109a195c6859e04237.js",
+    "service-worker.js": "/front-end-topicos/service-worker.js",
+    "static/css/2.c4b3731d.chunk.css.map": "/front-end-topicos/static/css/2.c4b3731d.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/front-end-topicos/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.10bbbc00.chunk.js.LICENSE.txt": "/front-end-topicos/static/js/2.10bbbc00.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/front-end-topicos/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/front-end-topicos/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/front-end-topicos/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81fb2454.js",
+    "static/css/2.c4b3731d.chunk.css",
+    "static/js/2.10bbbc00.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.271a7c26.chunk.js"
+  ]
+}
