@@ -2,7 +2,11 @@
   "name": "ui-products",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "http://rodriohglez.github.io/front-end-topicos",
+=======
+  "homepage": "http://rodrigohglez.github.io/react-consume-api",
+>>>>>>> 15a883a15ff0165f44da459ae942b28493bd4dcd
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
