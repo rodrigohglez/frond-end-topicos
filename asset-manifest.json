@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/front-end-topicos/static/css/main.69eda509.chunk.css",
-    "main.js": "/front-end-topicos/static/js/main.4b565b23.chunk.js",
-    "main.js.map": "/front-end-topicos/static/js/main.4b565b23.chunk.js.map",
-    "runtime-main.js": "/front-end-topicos/static/js/runtime-main.522c004b.js",
-    "runtime-main.js.map": "/front-end-topicos/static/js/runtime-main.522c004b.js.map",
+    "main.js": "/front-end-topicos/static/js/main.08725781.chunk.js",
+    "main.js.map": "/front-end-topicos/static/js/main.08725781.chunk.js.map",
+    "runtime-main.js": "/front-end-topicos/static/js/runtime-main.81fb2454.js",
+    "runtime-main.js.map": "/front-end-topicos/static/js/runtime-main.81fb2454.js.map",
     "static/css/2.c4b3731d.chunk.css": "/front-end-topicos/static/css/2.c4b3731d.chunk.css",
-    "static/js/2.a44d706b.chunk.js": "/front-end-topicos/static/js/2.a44d706b.chunk.js",
-    "static/js/2.a44d706b.chunk.js.map": "/front-end-topicos/static/js/2.a44d706b.chunk.js.map",
+    "static/js/2.0041a186.chunk.js": "/front-end-topicos/static/js/2.0041a186.chunk.js",
+    "static/js/2.0041a186.chunk.js.map": "/front-end-topicos/static/js/2.0041a186.chunk.js.map",
     "index.html": "/front-end-topicos/index.html",
-    "precache-manifest.1449cfd3b287bb29bd85573c2fae1cb6.js": "/front-end-topicos/precache-manifest.1449cfd3b287bb29bd85573c2fae1cb6.js",
+    "precache-manifest.4df0781733126877ca5a5942a60e0fb9.js": "/front-end-topicos/precache-manifest.4df0781733126877ca5a5942a60e0fb9.js",
     "service-worker.js": "/front-end-topicos/service-worker.js",
     "static/css/2.c4b3731d.chunk.css.map": "/front-end-topicos/static/css/2.c4b3731d.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/front-end-topicos/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.a44d706b.chunk.js.LICENSE.txt": "/front-end-topicos/static/js/2.a44d706b.chunk.js.LICENSE.txt",
+    "static/js/2.0041a186.chunk.js.LICENSE.txt": "/front-end-topicos/static/js/2.0041a186.chunk.js.LICENSE.txt",
     "static/media/primereact.min.css": "/front-end-topicos/static/media/line.567f5738.gif",
     "static/media/theme.css": "/front-end-topicos/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
     "static/media/primeicons.css": "/front-end-topicos/static/media/primeicons.79432094.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.522c004b.js",
+    "static/js/runtime-main.81fb2454.js",
     "static/css/2.c4b3731d.chunk.css",
-    "static/js/2.a44d706b.chunk.js",
+    "static/js/2.0041a186.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.4b565b23.chunk.js"
+    "static/js/main.08725781.chunk.js"
   ]
 }
